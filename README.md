@@ -37,7 +37,7 @@ This Project is an innovative project aimed at leveraging cutting-edge technolog
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/thegeek36/Missing-Person-Detection-System.git
+git clone [https://github.com/thegeek36/Missing-Person-Detection-System.git](https://github.com/KusumaKorlam/MISSING-CHILD-IDENTIFICATION-SYSTEM)
 cd Missing-Person-Detection-System
 ```
 
